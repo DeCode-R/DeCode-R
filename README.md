@@ -131,24 +131,3 @@ Python • Pandas • Matplotlib
 <div align="center">
 
 ⭐ Thanks for visiting my profile ⭐
-
-</div>
-```
-
----
-
-# How to Use
-
-1. Go to your GitHub account.
-2. Create a new repository named exactly:
-
-```text
-DeCode-R
-```
-
-3. Make it Public.
-4. Check: "Add a README file"
-5. Copy the markdown above into README.md
-6. Commit changes.
-
-Your GitHub profile will instantly look much more professional and attractive.
