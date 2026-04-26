@@ -1,6 +1,3 @@
-# 🚀 Professional GitHub Profile README for Md. Raihan Rafe
-
-```markdown
 <div align="center">
 
 # Hi 👋 I'm Md. Raihan Rafe
