@@ -1,14 +1,38 @@
-<h1 align="center"> Hi there 👋 , I am Md. Raihan Rafe</h1>
+# Hi there 👋 I'm Md. Raihan Rafe
 
+🎓 Computer Science & Engineering Graduate from Premier University, Chittagong
 
-Here are some ideas to get you started:
+💡 Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Data Analytics
+
+🛠 Skills:
+
+* Python
+* C++
+* Java
+* SQL
+* Machine Learning
+
+📚 Currently Learning:
+
+* Deep Learning
+* NLP
+* Data Visualization
+
+🚀 Projects:
+
+* Movie Recommendation System
+* Fake News Detection System
+* Data Analysis Projects
+
+📫 Contact Me:
+
+* Email: [mdraihanrafe613@gmail.com](mailto:mdraihanrafe613@gmail.com)
+
+🔗 GitHub:
+
+* https://github.com/DeCode-R
