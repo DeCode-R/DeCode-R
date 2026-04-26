@@ -46,40 +46,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎬 Movie Recommendation System
-Machine learning-based movie recommendation engine using content filtering techniques.
-
-### 🔧 Technologies Used
-Python • Pandas • Scikit-learn
-
----
-
-## 📰 Fake News Detection System
-AI-powered fake news detection model using Natural Language Processing and Machine Learning.
-
-### 🔧 Technologies Used
-Python • NLP • TF-IDF • Logistic Regression
-
----
-
-## 🏫 Student Management System
-Java-based management system for handling student records and academic information.
-
-### 🔧 Technologies Used
-Java • MySQL
-
----
-
-## 📊 Data Analysis Project
-Performed data cleaning, visualization, and analysis using real-world datasets.
-
-### 🔧 Technologies Used
-Python • Pandas • Matplotlib
-
----
-
 # 📚 Currently Learning
 
 - Deep Learning
