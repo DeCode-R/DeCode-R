@@ -2,9 +2,7 @@
 
 # Hi 👋 I'm Md. Raihan Rafe
 
-### 💻 Computer Science & Engineering Graduate
-### 🤖 Aspiring AI & Data Science Engineer
-### 📊 Machine Learning Enthusiast
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Data+Science+Explorer;Future+AI+Engineer" alt="Typing SVG" />
 
